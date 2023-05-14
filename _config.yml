@@ -1,12 +1,12 @@
 # Site settings
 title: AeroSense3D
-email: aerosense3d@gmail.com
+email: AeroSense3D@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+phone: (949) 632-4884
+instagram: AeroSense3D
 
 # Build settings
 markdown: kramdown
